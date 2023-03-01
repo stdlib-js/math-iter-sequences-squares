@@ -178,8 +178,8 @@ while ( true ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/math/iter/sequences/cubes`][@stdlib/math/iter/sequences/cubes]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a sequence of cubes.</span>
--   <span class="package-name">[`@stdlib/math/iter/sequences/nonsquares`][@stdlib/math/iter/sequences/nonsquares]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a sequence of nonsquares.</span>
+-   <span class="package-name">[`@stdlib/math-iter/sequences/cubes`][@stdlib/math/iter/sequences/cubes]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a sequence of cubes.</span>
+-   <span class="package-name">[`@stdlib/math-iter/sequences/nonsquares`][@stdlib/math/iter/sequences/nonsquares]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a sequence of nonsquares.</span>
 
 </section>
 
