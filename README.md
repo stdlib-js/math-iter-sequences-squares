@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterSquaresSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-squares@deno/mod.js';
+import iterSquaresSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-squares@v0.2.1-deno/mod.js';
 ```
 
 #### iterSquaresSeq( \[options] )
@@ -134,7 +134,7 @@ var bool = it.next().done;
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import iterSquaresSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-squares@deno/mod.js';
+import iterSquaresSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-squares@v0.2.1-deno/mod.js';
 
 // Create an iterator:
 var opts = {
